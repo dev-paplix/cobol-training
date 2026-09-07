@@ -1,0 +1,2 @@
+/home/wesi/codes/cobol-training/module_5/samples/01_CobolCallsCSharp/CSharpLib/bin/Release/net8.0/linux-x64/publish/CSharpLib.so
+/home/wesi/codes/cobol-training/module_5/samples/01_CobolCallsCSharp/CSharpLib/bin/Release/net8.0/linux-x64/publish/CSharpLib.pdb

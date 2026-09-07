@@ -1,0 +1,14 @@
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/bin/Debug/net8.0/DotNetClient
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/bin/Debug/net8.0/DotNetClient.deps.json
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/bin/Debug/net8.0/DotNetClient.runtimeconfig.json
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/bin/Debug/net8.0/DotNetClient.dll
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/bin/Debug/net8.0/DotNetClient.pdb
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/obj/Debug/net8.0/DotNetClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/obj/Debug/net8.0/DotNetClient.AssemblyInfoInputs.cache
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/obj/Debug/net8.0/DotNetClient.AssemblyInfo.cs
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/obj/Debug/net8.0/DotNetClient.csproj.CoreCompileInputs.cache
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/obj/Debug/net8.0/DotNetClient.dll
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/obj/Debug/net8.0/refint/DotNetClient.dll
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/obj/Debug/net8.0/DotNetClient.pdb
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/obj/Debug/net8.0/DotNetClient.genruntimeconfig.cache
+/home/wesi/codes/cobol-training/module_5/samples/02_CSharpCallsCobol/DotNetClient/obj/Debug/net8.0/ref/DotNetClient.dll

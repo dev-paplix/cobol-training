@@ -1,0 +1,7 @@
+V1.0 {
+    global: _init; _fini;
+        DotNetRuntimeDebugHeader;
+        ValidateAccountNumber;
+        CalculateProcessingFee;
+    local: *;
+};

@@ -1,0 +1,11 @@
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/bin/Release/net8.0/linux-x64/DotNetLib.deps.json
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/bin/Release/net8.0/linux-x64/DotNetLib.dll
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/bin/Release/net8.0/linux-x64/DotNetLib.pdb
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/obj/Release/net8.0/linux-x64/DotNetLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/obj/Release/net8.0/linux-x64/DotNetLib.AssemblyInfoInputs.cache
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/obj/Release/net8.0/linux-x64/DotNetLib.AssemblyInfo.cs
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/obj/Release/net8.0/linux-x64/DotNetLib.csproj.CoreCompileInputs.cache
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/obj/Release/net8.0/linux-x64/DotNetLib.dll
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/obj/Release/net8.0/linux-x64/refint/DotNetLib.dll
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/obj/Release/net8.0/linux-x64/DotNetLib.pdb
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/obj/Release/net8.0/linux-x64/ref/DotNetLib.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgE3Xe5vHSGnMD8OJCsl3vMfOQ2pRwzUAt7BcImYP8zHw2o7mb5Ax3Hk3x61fU6uLzizQph8KIUrBE3ZTgARBQ==",
+  "success": true,
+  "projectFilePath": "/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/DotNetLib.csproj",
+  "expectedPackageFiles": [
+    "/home/wesi/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.30/microsoft.dotnet.ilcompiler.8.0.30.nupkg.sha512",
+    "/home/wesi/.nuget/packages/microsoft.net.illink.tasks/8.0.30/microsoft.net.illink.tasks.8.0.30.nupkg.sha512",
+    "/home/wesi/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/8.0.30/runtime.linux-x64.microsoft.dotnet.ilcompiler.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

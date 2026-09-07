@@ -1,0 +1,2 @@
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/bin/Release/net8.0/linux-x64/publish/DotNetLib.so
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_2_cobol_calling_dotnet/solution/DotNetLib/bin/Release/net8.0/linux-x64/publish/DotNetLib.pdb

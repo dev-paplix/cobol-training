@@ -1,0 +1,14 @@
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/bin/Debug/net8.0/ECommerceCheckout
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/bin/Debug/net8.0/ECommerceCheckout.deps.json
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/bin/Debug/net8.0/ECommerceCheckout.runtimeconfig.json
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/bin/Debug/net8.0/ECommerceCheckout.dll
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/bin/Debug/net8.0/ECommerceCheckout.pdb
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/obj/Debug/net8.0/ECommerceCheckout.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/obj/Debug/net8.0/ECommerceCheckout.AssemblyInfoInputs.cache
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/obj/Debug/net8.0/ECommerceCheckout.AssemblyInfo.cs
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/obj/Debug/net8.0/ECommerceCheckout.csproj.CoreCompileInputs.cache
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/obj/Debug/net8.0/ECommerceCheckout.dll
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/obj/Debug/net8.0/refint/ECommerceCheckout.dll
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/obj/Debug/net8.0/ECommerceCheckout.pdb
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/obj/Debug/net8.0/ECommerceCheckout.genruntimeconfig.cache
+/home/wesi/codes/cobol-training/module_5/exercises/exercise_1_csharp_to_cobol_interop/solution/obj/Debug/net8.0/ref/ECommerceCheckout.dll
