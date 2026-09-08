@@ -11,8 +11,8 @@ PROGRAM-ID. Program1.
 DATA DIVISION.
 WORKING-STORAGE SECTION.
 *> User Input Variables
-01 WS-USER-NAME               PIC X(30).
-01 WS-CLEAN-NAME              PIC X(30).
+01 WS-USER-NAME               PIC X(4).
+01 WS-CLEAN-NAME              PIC X(4).
 01 WS-BIRTH-YEAR-ALPHA        PIC X(4).
 01 WS-BIRTH-YEAR              PIC 9(4).
 

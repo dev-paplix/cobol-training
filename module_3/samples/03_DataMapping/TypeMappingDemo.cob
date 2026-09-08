@@ -3,14 +3,16 @@
        PROGRAM-ID. TypeMappingDemo.
        AUTHOR. COBOL Modernization Series.
 
-      *>======================================================*
-      *> Demonstrates exact data mapping between COBOL PIC    *
-      *> clauses and SQL storage classes:                     *
-      *> 1. PIC S9(9) COMP-5        <-> SQL INTEGER           *
-      *> 2. PIC X(25)               <-> SQL TEXT              *
-      *> 3. USAGE COMP-2 (Double)   <-> SQL REAL              *
-      *> 4. PIC S9(9)V99 COMP-3     <-> SQL REAL / Cents      *
-      *>======================================================*
+      *>=====================================================================*
+      *> Demonstrates exact data mapping between COBOL PIC                   *
+      *> clauses and SQL storage classes:                                    *
+      *> 1. PIC S9(9) COMP-5        <-> SQL INTEGER                          *
+      *> 2. PIC X(25)               <-> SQL TEXT                             *
+      *> 3. USAGE COMP-2 (Double)   <-> SQL REAL                             *
+      *> 4. PIC S9(9)V99 COMP-3     <-> SQL REAL / Cents                     *
+      *>                                                                     *
+      *> Command: cobc -x -free TypeMappingDemo.cob cob_sqlite.c -lsqlite3   *
+      *>=====================================================================*
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.

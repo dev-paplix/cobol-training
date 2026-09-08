@@ -12,6 +12,8 @@
       *> 4. Record deletion with DELETE                       *
       *> 5. Key-not-found error handling (Status 23)          *
       *> 6. Sequential traversal using START and READ NEXT    *
+      *>                                                      *
+      *> Command: cobc -x -free IndexedFileDemo.cob           *
       *>======================================================*
 
        ENVIRONMENT DIVISION.

@@ -8,6 +8,8 @@
       *> in modern GnuCOBOL. It writes sample customer data,  *
       *> closes the file, and reads it back sequentially with *
       *> rigorous FILE STATUS validation.                     *
+      *>                                                      *
+      *> Command: cobc -x -free SequentialFileDemo.cob        *
       *>======================================================*
 
        ENVIRONMENT DIVISION.

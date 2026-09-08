@@ -6,6 +6,8 @@
       *>======================================================*
       *> Demonstrates JSON serialization and parsing in       *
       *> standard GnuCOBOL using STRING and UNSTRING.         *
+      *>                                                      *
+      *> Command: cobc -x -free JsonDemo.cob                  *
       *>======================================================*
 
        DATA DIVISION.

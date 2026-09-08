@@ -6,6 +6,8 @@
       *>======================================================*
       *> Demonstrates XML generation in modern GnuCOBOL using *
       *> native XML GENERATE from hierarchical group items.   *
+      *>                                                      *
+      *> Command: cobc -x -free XmlDemo.cob                   *
       *>======================================================*
 
        DATA DIVISION.

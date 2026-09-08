@@ -3,17 +3,19 @@
        PROGRAM-ID. DatabaseDemo.
        AUTHOR. COBOL Modernization Series.
 
-      *>======================================================*
-      *> Demonstrates SQLite3 relational database integration *
-      *> with GnuCOBOL using a type-safe C bridge.            *
-      *> Covers:                                              *
-      *> 1. Connecting to SQLite file                         *
-      *> 2. DDL Table Creation                                *
-      *> 3. Parameterized / Multiple INSERT statements        *
-      *> 4. SELECT Cursor Step traversal                      *
-      *> 5. Aggregation and Data Formatting                   *
-      *> 6. Finalization and Connection Cleanup               *
-      *>======================================================*
+      *>==================================================================*
+      *> Demonstrates SQLite3 relational database integration             *
+      *> with GnuCOBOL using a type-safe C bridge.                        *
+      *> Covers:                                                          *
+      *> 1. Connecting to SQLite file                                     *
+      *> 2. DDL Table Creation                                            *
+      *> 3. Parameterized / Multiple INSERT statements                    *
+      *> 4. SELECT Cursor Step traversal                                  *
+      *> 5. Aggregation and Data Formatting                               *
+      *> 6. Finalization and Connection Cleanup                           *
+      *>                                                                  *
+      *> Command: cobc -x -free DatabaseDemo.cob cob_sqlite.c -lsqlite3   *
+      *>==================================================================*
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.

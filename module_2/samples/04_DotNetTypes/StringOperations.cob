@@ -18,7 +18,7 @@ WORKING-STORAGE SECTION.
 01 WS-CONCAT-RESULT           PIC X(80).
 
 *> Fields for UNSTRING demonstration
-01 WS-CSV-LINE                PIC X(60) VALUE "USR-8821,John,Hopper,Admin".
+01 WS-CSV-LINE                PIC X(60) VALUE "USR-8821>John>Hopper>Admin".
 01 WS-USER-ID                 PIC X(10).
 01 WS-FIRST-NAME              PIC X(15).
 01 WS-LAST-NAME               PIC X(15).
@@ -50,7 +50,7 @@ MAIN-LOGIC.
 
     *> 4. Parsing Delimited Data via UNSTRING
     DISPLAY "Parsing CSV: " WS-CSV-LINE.
-    UNSTRING WS-CSV-LINE DELIMITED BY ","
+    UNSTRING WS-CSV-LINE DELIMITED BY ">"
         INTO WS-USER-ID
              WS-FIRST-NAME
              WS-LAST-NAME
